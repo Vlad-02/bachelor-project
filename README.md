@@ -30,3 +30,18 @@ The system is developed with a focus on simplicity, performance, and independenc
 - User queries are matched against predefined rules and database records.
 - The chatbot returns structured and relevant responses based on available data.
 - No external APIs are used for AI responses.
+
+## How to Run the Project
+
+### Backend
+1. Install dependencies:
+   ```bash
+   pip install fastapi uvicorn spacy
+Run the server:
+
+bash
+Copy code
+uvicorn main:app --reload
+
+
+AUTHOR: VLAD - CRISTIAN BRATU
