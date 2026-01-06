@@ -1,0 +1,32 @@
+function sendMessage() {
+    const userInput = document.getElementById('user-input').value;
+    if (userInput.trim() === "") return; // Evită trimiterea mesajelor goale
+
+    const chatBox = document.getElementById('chat-box');
+    const userMessage = document.createElement('div');
+    userMessage.classList.add('message', 'user-message');
+    userMessage.textContent = userInput;
+    chatBox.appendChild(userMessage);
+
+    // Șterge inputul după ce se trimite mesajul
+    document.getElementById('user-input').value = '';
+
+    // Trimite întrebarea către API-ul FastAPI
+    fetch(`http://127.0.0.1:8000/chat/?query=${userInput}`)
+        .then(response => response.json())
+        .then(data => {
+            const botMessage = document.createElement('div');
+            botMessage.classList.add('message', 'bot-message');
+            botMessage.textContent = data.response;
+            chatBox.appendChild(botMessage);
+
+            // Derulează la ultima întrebare
+            chatBox.scrollTop = chatBox.scrollHeight;
+        })
+        .catch(error => {
+            const botMessage = document.createElement('div');
+            botMessage.classList.add('message', 'bot-message');
+            botMessage.textContent = "Eroare la comunicarea cu serverul.";
+            chatBox.appendChild(botMessage);
+        });
+}

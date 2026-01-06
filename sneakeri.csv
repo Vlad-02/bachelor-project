@@ -1,0 +1,411 @@
+id,brand,model,culoare,marime,pret,descriere,stoc
+1,Nike,Air Force 1,Albastru,"38,39,40,41,42,43,44",760,Fabricat din materiale premium pentru durabilitate.,39
+2,Nike,Air Force 1,Verde,"38,39,40,41,42,43,44",828,Fabricat din materiale premium pentru durabilitate.,17
+3,Nike,Air Force 1,Galben,"38,39,40,41,42,43,44",785,Fabricat din materiale premium pentru durabilitate.,42
+4,Nike,Air Force 1,Bej,"38,39,40,41,42,43,44",778,Fabricat din materiale premium pentru durabilitate.,41
+5,Nike,Air Force 1,Portocaliu,"38,39,40,41,42,43,44",506,Fabricat din materiale premium pentru durabilitate.,36
+6,Nike,Air Force 1,Verde,"38,39,40,41,42,43,44",992,Fabricat din materiale premium pentru durabilitate.,35
+7,Nike,Air Force 1,Alb,"38,39,40,41,42,43,44",835,Fabricat din materiale premium pentru durabilitate.,11
+8,Nike,Air Force 1,Bej,"38,39,40,41,42,43,44",1444,Fabricat din materiale premium pentru durabilitate.,20
+9,Nike,Air Force 1,Portocaliu,"38,39,40,41,42,43,44",432,Fabricat din materiale premium pentru durabilitate.,10
+10,Nike,Air Force 1,Gri,"38,39,40,41,42,43,44",1002,Fabricat din materiale premium pentru durabilitate.,14
+11,Nike,Air Force 1,Verde,"38,39,40,41,42,43,44",1460,Fabricat din materiale premium pentru durabilitate.,40
+12,Nike,Air Force 1,Galben,"38,39,40,41,42,43,44",389,Fabricat din materiale premium pentru durabilitate.,46
+13,Nike,Air Force 1,Mov,"38,39,40,41,42,43,44",905,Fabricat din materiale premium pentru durabilitate.,31
+14,Nike,Air Force 1,Portocaliu,"38,39,40,41,42,43,44",1475,Fabricat din materiale premium pentru durabilitate.,30
+15,Nike,Air Max,Albastru,"38,39,40,41,42,43,44",601,Model clasic reinventat cu tehnologie noua.,0
+16,Nike,Air Max,Verde,"38,39,40,41,42,43,44",469,Model clasic reinventat cu tehnologie noua.,32
+17,Nike,Air Max,Negru,"38,39,40,41,42,43,44",1153,Model clasic reinventat cu tehnologie noua.,17
+18,Nike,Air Max,Verde,"38,39,40,41,42,43,44",594,Model clasic reinventat cu tehnologie noua.,46
+19,Nike,Air Max,Portocaliu,"38,39,40,41,42,43,44",923,Model clasic reinventat cu tehnologie noua.,23
+20,Nike,Air Max,Alb,"38,39,40,41,42,43,44",801,Model clasic reinventat cu tehnologie noua.,43
+21,Nike,Air Max,Negru,"38,39,40,41,42,43,44",1153,Model clasic reinventat cu tehnologie noua.,1
+22,Nike,Air Max,Portocaliu,"38,39,40,41,42,43,44",433,Model clasic reinventat cu tehnologie noua.,36
+23,Nike,Air Max,Verde,"38,39,40,41,42,43,44",473,Model clasic reinventat cu tehnologie noua.,15
+24,Nike,Air Max,Negru,"38,39,40,41,42,43,44",573,Model clasic reinventat cu tehnologie noua.,41
+25,Nike,Air Max,Verde,"38,39,40,41,42,43,44",1481,Model clasic reinventat cu tehnologie noua.,34
+26,Nike,Air Max,Rosu,"38,39,40,41,42,43,44",1024,Model clasic reinventat cu tehnologie noua.,41
+27,Nike,Air Max,Rosu,"38,39,40,41,42,43,44",1227,Model clasic reinventat cu tehnologie noua.,50
+28,Nike,Air Max,Albastru,"38,39,40,41,42,43,44",545,Model clasic reinventat cu tehnologie noua.,11
+29,Nike,Air Max,Rosu,"38,39,40,41,42,43,44",554,Model clasic reinventat cu tehnologie noua.,15
+30,Nike,Air Max,Verde,"38,39,40,41,42,43,44",1030,Model clasic reinventat cu tehnologie noua.,5
+31,Nike,Air Max,Albastru,"38,39,40,41,42,43,44",1276,Model clasic reinventat cu tehnologie noua.,16
+32,Nike,Air Max,Portocaliu,"38,39,40,41,42,43,44",370,Model clasic reinventat cu tehnologie noua.,40
+33,Nike,Air Max,Negru,"38,39,40,41,42,43,44",988,Model clasic reinventat cu tehnologie noua.,43
+34,Nike,Air Max,Rosu,"38,39,40,41,42,43,44",1445,Model clasic reinventat cu tehnologie noua.,24
+35,Nike,Blazer,Albastru,"38,39,40,41,42,43,44",930,Design iconic cu accente retro.,50
+36,Nike,Blazer,Negru,"38,39,40,41,42,43,44",719,Design iconic cu accente retro.,15
+37,Nike,Blazer,Verde,"38,39,40,41,42,43,44",787,Design iconic cu accente retro.,40
+38,Nike,Blazer,Portocaliu,"38,39,40,41,42,43,44",821,Design iconic cu accente retro.,9
+39,Nike,Blazer,Alb,"38,39,40,41,42,43,44",890,Design iconic cu accente retro.,5
+40,Nike,Blazer,Negru,"38,39,40,41,42,43,44",1223,Design iconic cu accente retro.,14
+41,Nike,Blazer,Mov,"38,39,40,41,42,43,44",737,Design iconic cu accente retro.,13
+42,Nike,Blazer,Rosu,"38,39,40,41,42,43,44",1481,Design iconic cu accente retro.,1
+43,Nike,Blazer,Verde,"38,39,40,41,42,43,44",1049,Design iconic cu accente retro.,49
+44,Nike,Blazer,Galben,"38,39,40,41,42,43,44",1136,Design iconic cu accente retro.,0
+45,Nike,Blazer,Negru,"38,39,40,41,42,43,44",451,Design iconic cu accente retro.,9
+46,Nike,Blazer,Bej,"38,39,40,41,42,43,44",506,Design iconic cu accente retro.,10
+47,Nike,Blazer,Portocaliu,"38,39,40,41,42,43,44",1470,Design iconic cu accente retro.,23
+48,Nike,Blazer,Verde,"38,39,40,41,42,43,44",1019,Design iconic cu accente retro.,34
+49,Nike,Blazer,Portocaliu,"38,39,40,41,42,43,44",1292,Design iconic cu accente retro.,30
+50,Nike,Blazer,Portocaliu,"38,39,40,41,42,43,44",702,Design iconic cu accente retro.,13
+51,Nike,Blazer,Mov,"38,39,40,41,42,43,44",713,Design iconic cu accente retro.,17
+52,Nike,Blazer,Mov,"38,39,40,41,42,43,44",636,Design iconic cu accente retro.,22
+53,Nike,Blazer,Verde,"38,39,40,41,42,43,44",647,Design iconic cu accente retro.,31
+54,Nike,Blazer,Alb,"38,39,40,41,42,43,44",1446,Design iconic cu accente retro.,48
+55,Nike,Blazer,Alb,"38,39,40,41,42,43,44",1371,Design iconic cu accente retro.,3
+56,Nike,Dunk,Alb,"38,39,40,41,42,43,44",600,"Stil casual, perfect pentru orice iesire",18
+57,Nike,Dunk,Albastru,"38,39,40,41,42,43,44",973,"Stil casual, perfect pentru orice iesire",18
+58,Nike,Dunk,Alb,"38,39,40,41,42,43,44",427,"Stil casual, perfect pentru orice iesire",46
+59,Nike,Dunk,Rosu,"38,39,40,41,42,43,44",734,"Stil casual, perfect pentru orice iesire",8
+60,Nike,Dunk,Bej,"38,39,40,41,42,43,44",580,"Stil casual, perfect pentru orice iesire",32
+61,Nike,Dunk,Negru,"38,39,40,41,42,43,44",409,"Stil casual, perfect pentru orice iesire",13
+62,Nike,Dunk,Verde,"38,39,40,41,42,43,44",797,"Stil casual, perfect pentru orice iesire",42
+63,Nike,Dunk,Rosu,"38,39,40,41,42,43,44",356,"Stil casual, perfect pentru orice iesire",43
+64,Nike,Dunk,Alb,"38,39,40,41,42,43,44",439,"Stil casual, perfect pentru orice iesire",6
+65,Nike,Dunk,Verde,"38,39,40,41,42,43,44",1402,"Stil casual, perfect pentru orice iesire",17
+66,Nike,Dunk,Mov,"38,39,40,41,42,43,44",1348,"Stil casual, perfect pentru orice iesire",26
+67,Nike,Dunk,Albastru,"38,39,40,41,42,43,44",304,"Stil casual, perfect pentru orice iesire",10
+68,Nike,Dunk,Verde,"38,39,40,41,42,43,44",967,"Stil casual, perfect pentru orice iesire",37
+69,Nike,Dunk,Galben,"38,39,40,41,42,43,44",1482,"Stil casual, perfect pentru orice iesire",22
+70,Nike,Dunk,Gri,"38,39,40,41,42,43,44",400,"Stil casual, perfect pentru orice iesire",15
+71,Nike,Dunk,Galben,"38,39,40,41,42,43,44",1123,"Stil casual, perfect pentru orice iesire",47
+72,Nike,Dunk,Mov,"38,39,40,41,42,43,44",1284,"Stil casual, perfect pentru orice iesire",0
+73,Nike,Dunk,Mov,"38,39,40,41,42,43,44",706,"Stil casual, perfect pentru orice iesire",7
+74,Nike,Dunk,Galben,"38,39,40,41,42,43,44",1184,"Stil casual, perfect pentru orice iesire",23
+75,Nike,Dunk,Albastru,"38,39,40,41,42,43,44",1085,"Stil casual, perfect pentru orice iesire",37
+76,Nike,Dunk,Rosu,"38,39,40,41,42,43,44",360,"Stil casual, perfect pentru orice iesire",37
+77,Adidas,Forum,Portocaliu,"38,39,40,41,42,43,44",596,"Respirabil si usor, ideal pentru vara.",15
+78,Adidas,Forum,Albastru,"38,39,40,41,42,43,44",336,"Respirabil si usor, ideal pentru vara.",28
+79,Adidas,Forum,Mov,"38,39,40,41,42,43,44",579,"Respirabil si usor, ideal pentru vara.",34
+80,Adidas,Forum,Alb,"38,39,40,41,42,43,44",1172,"Respirabil si usor, ideal pentru vara.",45
+81,Adidas,Forum,Alb,"38,39,40,41,42,43,44",824,"Respirabil si usor, ideal pentru vara.",46
+82,Adidas,Forum,Gri,"38,39,40,41,42,43,44",886,"Respirabil si usor, ideal pentru vara.",31
+83,Adidas,Forum,Verde,"38,39,40,41,42,43,44",678,"Respirabil si usor, ideal pentru vara.",47
+84,Adidas,Forum,Bej,"38,39,40,41,42,43,44",1035,"Respirabil si usor, ideal pentru vara.",19
+85,Adidas,Forum,Galben,"38,39,40,41,42,43,44",1001,"Respirabil si usor, ideal pentru vara.",45
+86,Adidas,Forum,Portocaliu,"38,39,40,41,42,43,44",360,"Respirabil si usor, ideal pentru vara.",46
+87,Adidas,Forum,Bej,"38,39,40,41,42,43,44",1027,"Respirabil si usor, ideal pentru vara.",34
+88,Adidas,Forum,Albastru,"38,39,40,41,42,43,44",981,"Respirabil si usor, ideal pentru vara.",41
+89,Adidas,Forum,Negru,"38,39,40,41,42,43,44",469,"Respirabil si usor, ideal pentru vara.",42
+90,Adidas,Forum,Galben,"38,39,40,41,42,43,44",887,"Respirabil si usor, ideal pentru vara.",4
+91,Adidas,Forum,Gri,"38,39,40,41,42,43,44",916,"Respirabil si usor, ideal pentru vara.",9
+92,Adidas,Forum,Gri,"38,39,40,41,42,43,44",429,"Respirabil si usor, ideal pentru vara.",35
+93,Adidas,Forum,Galben,"38,39,40,41,42,43,44",1116,"Respirabil si usor, ideal pentru vara.",28
+94,Adidas,Forum,Albastru,"38,39,40,41,42,43,44",1015,"Respirabil si usor, ideal pentru vara.",43
+95,Adidas,Forum,Mov,"38,39,40,41,42,43,44",311,"Respirabil si usor, ideal pentru vara.",41
+96,Adidas,Forum,Portocaliu,"38,39,40,41,42,43,44",580,"Respirabil si usor, ideal pentru vara.",21
+97,Adidas,Gazelle,Albastru,"38,39,40,41,42,43,44",450,Potrivit pentru alergare si antrenamente.,18
+98,Adidas,Gazelle,Galben,"38,39,40,41,42,43,44",505,Potrivit pentru alergare si antrenamente.,21
+99,Adidas,Gazelle,Verde,"38,39,40,41,42,43,44",447,Potrivit pentru alergare si antrenamente.,40
+100,Adidas,Gazelle,Galben,"38,39,40,41,42,43,44",738,Potrivit pentru alergare si antrenamente.,16
+101,Adidas,Gazelle,Galben,"38,39,40,41,42,43,44",788,Potrivit pentru alergare si antrenamente.,24
+102,Adidas,Gazelle,Gri,"38,39,40,41,42,43,44",934,Potrivit pentru alergare si antrenamente.,14
+103,Adidas,Gazelle,Rosu,"38,39,40,41,42,43,44",648,Potrivit pentru alergare si antrenamente.,24
+104,Adidas,Gazelle,Negru,"38,39,40,41,42,43,44",1142,Potrivit pentru alergare si antrenamente.,50
+105,Adidas,Gazelle,Rosu,"38,39,40,41,42,43,44",348,Potrivit pentru alergare si antrenamente.,10
+106,Adidas,Gazelle,Negru,"38,39,40,41,42,43,44",616,Potrivit pentru alergare si antrenamente.,37
+107,Adidas,Gazelle,Verde,"38,39,40,41,42,43,44",951,Potrivit pentru alergare si antrenamente.,48
+108,Adidas,Gazelle,Gri,"38,39,40,41,42,43,44",586,Potrivit pentru alergare si antrenamente.,37
+109,Adidas,Gazelle,Portocaliu,"38,39,40,41,42,43,44",748,Potrivit pentru alergare si antrenamente.,39
+110,Adidas,Gazelle,Rosu,"38,39,40,41,42,43,44",733,Potrivit pentru alergare si antrenamente.,10
+111,Adidas,Gazelle,Albastru,"38,39,40,41,42,43,44",515,Potrivit pentru alergare si antrenamente.,13
+112,Adidas,Gazelle,Portocaliu,"38,39,40,41,42,43,44",398,Potrivit pentru alergare si antrenamente.,32
+113,Adidas,Gazelle,Mov,"38,39,40,41,42,43,44",674,Potrivit pentru alergare si antrenamente.,16
+114,Adidas,Gazelle,Alb,"38,39,40,41,42,43,44",847,Potrivit pentru alergare si antrenamente.,2
+115,Adidas,Gazelle,Mov,"38,39,40,41,42,43,44",283,Potrivit pentru alergare si antrenamente.,45
+116,Adidas,Gazelle,Alb,"38,39,40,41,42,43,44",887,Potrivit pentru alergare si antrenamente.,46
+117,Adidas,Gazelle,Bej,"38,39,40,41,42,43,44",327,Potrivit pentru alergare si antrenamente.,0
+118,Adidas,Gazelle,Gri,"38,39,40,41,42,43,44",828,Potrivit pentru alergare si antrenamente.,16
+119,Adidas,Gazelle,Mov,"38,39,40,41,42,43,44",965,Potrivit pentru alergare si antrenamente.,43
+120,Nike,Metcon,Albastru,"38,39,40,41,42,43,44",837,Talpa cu amortizare excelenta.,27
+121,Nike,Metcon,Gri,"38,39,40,41,42,43,44",751,Talpa cu amortizare excelenta.,0
+122,Nike,Metcon,Negru,"38,39,40,41,42,43,44",945,Talpa cu amortizare excelenta.,8
+123,Nike,Metcon,Galben,"38,39,40,41,42,43,44",1218,Talpa cu amortizare excelenta.,1
+124,Nike,Metcon,Portocaliu,"38,39,40,41,42,43,44",326,Talpa cu amortizare excelenta.,40
+125,Nike,Metcon,Portocaliu,"38,39,40,41,42,43,44",1280,Talpa cu amortizare excelenta.,14
+126,Nike,Metcon,Albastru,"38,39,40,41,42,43,44",1356,Talpa cu amortizare excelenta.,26
+127,Nike,Metcon,Albastru,"38,39,40,41,42,43,44",319,Talpa cu amortizare excelenta.,11
+128,Nike,Metcon,Rosu,"38,39,40,41,42,43,44",652,Talpa cu amortizare excelenta.,38
+129,Nike,Metcon,Albastru,"38,39,40,41,42,43,44",1324,Talpa cu amortizare excelenta.,30
+130,Nike,Metcon,Mov,"38,39,40,41,42,43,44",652,Talpa cu amortizare excelenta.,45
+131,Nike,Metcon,Rosu,"38,39,40,41,42,43,44",405,Talpa cu amortizare excelenta.,2
+132,Nike,Metcon,Bej,"38,39,40,41,42,43,44",1426,Talpa cu amortizare excelenta.,46
+133,Nike,Metcon,Galben,"38,39,40,41,42,43,44",888,Talpa cu amortizare excelenta.,25
+134,Nike,Metcon,Galben,"38,39,40,41,42,43,44",1302,Talpa cu amortizare excelenta.,13
+135,Nike,Metcon,Rosu,"38,39,40,41,42,43,44",1367,Talpa cu amortizare excelenta.,32
+136,Nike,Metcon,Albastru,"38,39,40,41,42,43,44",471,Talpa cu amortizare excelenta.,7
+137,Nike,Metcon,Gri,"38,39,40,41,42,43,44",1085,Talpa cu amortizare excelenta.,4
+138,Nike,Metcon,Portocaliu,"38,39,40,41,42,43,44",800,Talpa cu amortizare excelenta.,16
+139,Nike,Metcon,Mov,"38,39,40,41,42,43,44",1429,Talpa cu amortizare excelenta.,39
+140,Nike,Metcon,Bej,"38,39,40,41,42,43,44",1272,Talpa cu amortizare excelenta.,12
+141,Nike,Metcon,Alb,"38,39,40,41,42,43,44",1291,Talpa cu amortizare excelenta.,26
+142,Nike,Metcon,Negru,"38,39,40,41,42,43,44",1437,Talpa cu amortizare excelenta.,46
+143,Nike,Metcon,Mov,"38,39,40,41,42,43,44",584,Talpa cu amortizare excelenta.,7
+144,Nike,Metcon,Portocaliu,"38,39,40,41,42,43,44",687,Talpa cu amortizare excelenta.,24
+145,Adidas,NMD,Bej,"38,39,40,41,42,43,44",397,Ideal pentru sport si activitati zilnice.,19
+146,Adidas,NMD,Bej,"38,39,40,41,42,43,44",504,Ideal pentru sport si activitati zilnice.,6
+147,Adidas,NMD,Alb,"38,39,40,41,42,43,44",1175,Ideal pentru sport si activitati zilnice.,49
+148,Adidas,NMD,Negru,"38,39,40,41,42,43,44",586,Ideal pentru sport si activitati zilnice.,19
+149,Adidas,NMD,Portocaliu,"38,39,40,41,42,43,44",618,Ideal pentru sport si activitati zilnice.,39
+150,Adidas,NMD,Gri,"38,39,40,41,42,43,44",509,Ideal pentru sport si activitati zilnice.,42
+151,Adidas,NMD,Gri,"38,39,40,41,42,43,44",506,Ideal pentru sport si activitati zilnice.,44
+152,Adidas,NMD,Gri,"38,39,40,41,42,43,44",594,Ideal pentru sport si activitati zilnice.,42
+153,Adidas,NMD,Alb,"38,39,40,41,42,43,44",757,Ideal pentru sport si activitati zilnice.,47
+154,Adidas,NMD,Mov,"38,39,40,41,42,43,44",1178,Ideal pentru sport si activitati zilnice.,2
+155,Adidas,NMD,Rosu,"38,39,40,41,42,43,44",806,Ideal pentru sport si activitati zilnice.,4
+156,Adidas,NMD,Albastru,"38,39,40,41,42,43,44",1012,Ideal pentru sport si activitati zilnice.,7
+157,Adidas,NMD,Rosu,"38,39,40,41,42,43,44",1159,Ideal pentru sport si activitati zilnice.,6
+158,Adidas,NMD,Albastru,"38,39,40,41,42,43,44",579,Ideal pentru sport si activitati zilnice.,43
+159,Adidas,NMD,Negru,"38,39,40,41,42,43,44",1160,Ideal pentru sport si activitati zilnice.,43
+160,Adidas,NMD,Negru,"38,39,40,41,42,43,44",1196,Ideal pentru sport si activitati zilnice.,40
+161,Adidas,NMD,Portocaliu,"38,39,40,41,42,43,44",501,Ideal pentru sport si activitati zilnice.,22
+162,Adidas,NMD,Portocaliu,"38,39,40,41,42,43,44",735,Ideal pentru sport si activitati zilnice.,17
+163,Adidas,NMD,Mov,"38,39,40,41,42,43,44",325,Ideal pentru sport si activitati zilnice.,15
+164,Adidas,NMD,Alb,"38,39,40,41,42,43,44",554,Ideal pentru sport si activitati zilnice.,25
+165,Adidas,NMD,Portocaliu,"38,39,40,41,42,43,44",1133,Ideal pentru sport si activitati zilnice.,47
+166,Adidas,NMD,Verde,"38,39,40,41,42,43,44",655,Ideal pentru sport si activitati zilnice.,38
+167,Adidas,NMD,Rosu,"38,39,40,41,42,43,44",540,Ideal pentru sport si activitati zilnice.,0
+168,Adidas,Ozweego,Portocaliu,"38,39,40,41,42,43,44",407,Performanta si stil intr-un singur produs.,11
+169,Adidas,Ozweego,Bej,"38,39,40,41,42,43,44",885,Performanta si stil intr-un singur produs.,50
+170,Adidas,Ozweego,Bej,"38,39,40,41,42,43,44",857,Performanta si stil intr-un singur produs.,6
+171,Adidas,Ozweego,Albastru,"38,39,40,41,42,43,44",849,Performanta si stil intr-un singur produs.,22
+172,Adidas,Ozweego,Rosu,"38,39,40,41,42,43,44",890,Performanta si stil intr-un singur produs.,32
+173,Adidas,Ozweego,Albastru,"38,39,40,41,42,43,44",1150,Performanta si stil intr-un singur produs.,4
+174,Adidas,Ozweego,Bej,"38,39,40,41,42,43,44",855,Performanta si stil intr-un singur produs.,10
+175,Adidas,Ozweego,Galben,"38,39,40,41,42,43,44",852,Performanta si stil intr-un singur produs.,26
+176,Adidas,Ozweego,Gri,"38,39,40,41,42,43,44",310,Performanta si stil intr-un singur produs.,0
+177,Adidas,Ozweego,Alb,"38,39,40,41,42,43,44",613,Performanta si stil intr-un singur produs.,6
+178,Adidas,Ozweego,Portocaliu,"38,39,40,41,42,43,44",550,Performanta si stil intr-un singur produs.,19
+179,Adidas,Ozweego,Gri,"38,39,40,41,42,43,44",731,Performanta si stil intr-un singur produs.,46
+180,Adidas,Ozweego,Verde,"38,39,40,41,42,43,44",353,Performanta si stil intr-un singur produs.,46
+181,Adidas,Ozweego,Mov,"38,39,40,41,42,43,44",476,Performanta si stil intr-un singur produs.,22
+182,Adidas,Ozweego,Gri,"38,39,40,41,42,43,44",597,Performanta si stil intr-un singur produs.,12
+183,Adidas,Ozweego,Albastru,"38,39,40,41,42,43,44",343,Performanta si stil intr-un singur produs.,16
+184,Nike,Pegasus,Verde,"38,39,40,41,42,43,44",635,Talpa cu amortizare excelenta.,38
+185,Nike,Pegasus,Alb,"38,39,40,41,42,43,44",1465,Talpa cu amortizare excelenta.,22
+186,Nike,Pegasus,Galben,"38,39,40,41,42,43,44",917,Talpa cu amortizare excelenta.,41
+187,Nike,Pegasus,Alb,"38,39,40,41,42,43,44",1249,Talpa cu amortizare excelenta.,33
+188,Nike,Pegasus,Albastru,"38,39,40,41,42,43,44",745,Talpa cu amortizare excelenta.,5
+189,Nike,Pegasus,Bej,"38,39,40,41,42,43,44",897,Talpa cu amortizare excelenta.,40
+190,Nike,Pegasus,Galben,"38,39,40,41,42,43,44",923,Talpa cu amortizare excelenta.,18
+191,Nike,Pegasus,Verde,"38,39,40,41,42,43,44",1255,Talpa cu amortizare excelenta.,0
+192,Nike,Pegasus,Galben,"38,39,40,41,42,43,44",1287,Talpa cu amortizare excelenta.,21
+193,Nike,Pegasus,Rosu,"38,39,40,41,42,43,44",576,Talpa cu amortizare excelenta.,4
+194,Nike,Pegasus,Bej,"38,39,40,41,42,43,44",1115,Talpa cu amortizare excelenta.,22
+195,Nike,Pegasus,Negru,"38,39,40,41,42,43,44",1235,Talpa cu amortizare excelenta.,25
+196,Nike,Pegasus,Mov,"38,39,40,41,42,43,44",856,Talpa cu amortizare excelenta.,42
+197,Nike,Pegasus,Alb,"38,39,40,41,42,43,44",749,Talpa cu amortizare excelenta.,49
+198,Nike,Pegasus,Verde,"38,39,40,41,42,43,44",1295,Talpa cu amortizare excelenta.,2
+199,Nike,Pegasus,Bej,"38,39,40,41,42,43,44",1334,Talpa cu amortizare excelenta.,8
+200,Nike,Pegasus,Rosu,"38,39,40,41,42,43,44",1447,Talpa cu amortizare excelenta.,0
+201,Nike,Pegasus,Verde,"38,39,40,41,42,43,44",953,Talpa cu amortizare excelenta.,46
+202,Nike,Pegasus,Portocaliu,"38,39,40,41,42,43,44",755,Talpa cu amortizare excelenta.,43
+203,Nike,React Infinity,Portocaliu,"38,39,40,41,42,43,44",528,Talpa cu amortizare excelenta.,17
+204,Nike,React Infinity,Negru,"38,39,40,41,42,43,44",813,Talpa cu amortizare excelenta.,4
+205,Nike,React Infinity,Rosu,"38,39,40,41,42,43,44",607,Talpa cu amortizare excelenta.,10
+206,Nike,React Infinity,Galben,"38,39,40,41,42,43,44",1217,Talpa cu amortizare excelenta.,26
+207,Nike,React Infinity,Gri,"38,39,40,41,42,43,44",1304,Talpa cu amortizare excelenta.,47
+208,Nike,React Infinity,Negru,"38,39,40,41,42,43,44",1480,Talpa cu amortizare excelenta.,34
+209,Nike,React Infinity,Galben,"38,39,40,41,42,43,44",1213,Talpa cu amortizare excelenta.,35
+210,Nike,React Infinity,Alb,"38,39,40,41,42,43,44",1003,Talpa cu amortizare excelenta.,2
+211,Nike,React Infinity,Negru,"38,39,40,41,42,43,44",1166,Model clasic reinventat cu tehnologie noua.,4
+212,Nike,React Infinity,Mov,"38,39,40,41,42,43,44",825,Model clasic reinventat cu tehnologie noua.,50
+213,Nike,React Infinity,Albastru,"38,39,40,41,42,43,44",1340,Model clasic reinventat cu tehnologie noua.,2
+214,Nike,React Infinity,Albastru,"38,39,40,41,42,43,44",862,Model clasic reinventat cu tehnologie noua.,25
+215,Nike,React Infinity,Negru,"38,39,40,41,42,43,44",489,Model clasic reinventat cu tehnologie noua.,18
+216,Nike,React Infinity,Gri,"38,39,40,41,42,43,44",910,Model clasic reinventat cu tehnologie noua.,16
+217,Nike,React Infinity,Mov,"38,39,40,41,42,43,44",910,Model clasic reinventat cu tehnologie noua.,18
+218,Nike,React Infinity,Mov,"38,39,40,41,42,43,44",1333,Model clasic reinventat cu tehnologie noua.,45
+219,Nike,React Infinity,Verde,"38,39,40,41,42,43,44",671,Model clasic reinventat cu tehnologie noua.,17
+220,Nike,React Infinity,Negru,"38,39,40,41,42,43,44",1097,Model clasic reinventat cu tehnologie noua.,13
+221,Nike,Revolution,Portocaliu,"38,39,40,41,42,43,44",504,Model clasic reinventat cu tehnologie noua.,39
+222,Nike,Revolution,Negru,"38,39,40,41,42,43,44",585,Model clasic reinventat cu tehnologie noua.,37
+223,Nike,Revolution,Alb,"38,39,40,41,42,43,44",1265,Model clasic reinventat cu tehnologie noua.,43
+224,Nike,Revolution,Portocaliu,"38,39,40,41,42,43,44",465,Model clasic reinventat cu tehnologie noua.,47
+225,Nike,Revolution,Negru,"38,39,40,41,42,43,44",1439,Model clasic reinventat cu tehnologie noua.,24
+226,Nike,Revolution,Gri,"38,39,40,41,42,43,44",1183,Model clasic reinventat cu tehnologie noua.,20
+227,Nike,Revolution,Albastru,"38,39,40,41,42,43,44",542,Model clasic reinventat cu tehnologie noua.,32
+228,Nike,Revolution,Alb,"38,39,40,41,42,43,44",821,Model clasic reinventat cu tehnologie noua.,31
+229,Nike,Revolution,Albastru,"38,39,40,41,42,43,44",603,Model clasic reinventat cu tehnologie noua.,8
+230,Nike,Revolution,Gri,"38,39,40,41,42,43,44",1276,Model clasic reinventat cu tehnologie noua.,11
+231,Nike,Revolution,Negru,"38,39,40,41,42,43,44",370,Model clasic reinventat cu tehnologie noua.,14
+232,Nike,Revolution,Verde,"38,39,40,41,42,43,44",304,Model clasic reinventat cu tehnologie noua.,5
+233,Nike,Revolution,Rosu,"38,39,40,41,42,43,44",995,Model clasic reinventat cu tehnologie noua.,21
+234,Nike,Revolution,Portocaliu,"38,39,40,41,42,43,44",1362,Model clasic reinventat cu tehnologie noua.,22
+235,Nike,Revolution,Portocaliu,"38,39,40,41,42,43,44",360,Model clasic reinventat cu tehnologie noua.,44
+236,Nike,Revolution,Portocaliu,"38,39,40,41,42,43,44",1373,Model clasic reinventat cu tehnologie noua.,48
+237,Nike,Revolution,Negru,"38,39,40,41,42,43,44",1279,Model clasic reinventat cu tehnologie noua.,43
+238,Nike,Revolution,Galben,"38,39,40,41,42,43,44",500,Model clasic reinventat cu tehnologie noua.,4
+239,Adidas,Samba,Alb,"38,39,40,41,42,43,44",583,Design iconic cu accente retro.,3
+240,Adidas,Samba,Albastru,"38,39,40,41,42,43,44",325,Design iconic cu accente retro.,47
+241,Adidas,Samba,Mov,"38,39,40,41,42,43,44",326,Design iconic cu accente retro.,19
+242,Adidas,Samba,Rosu,"38,39,40,41,42,43,44",751,Design iconic cu accente retro.,30
+243,Adidas,Samba,Gri,"38,39,40,41,42,43,44",551,Design iconic cu accente retro.,26
+244,Adidas,Samba,Albastru,"38,39,40,41,42,43,44",959,Design iconic cu accente retro.,1
+245,Adidas,Samba,Portocaliu,"38,39,40,41,42,43,44",1084,Design iconic cu accente retro.,6
+246,Adidas,Samba,Alb,"38,39,40,41,42,43,44",372,Design iconic cu accente retro.,11
+247,Adidas,Samba,Albastru,"38,39,40,41,42,43,44",949,Design iconic cu accente retro.,33
+248,Adidas,Samba,Rosu,"38,39,40,41,42,43,44",1051,Design iconic cu accente retro.,43
+249,Adidas,Samba,Mov,"38,39,40,41,42,43,44",708,Design iconic cu accente retro.,44
+250,Adidas,Samba,Verde,"38,39,40,41,42,43,44",580,Design iconic cu accente retro.,31
+251,Adidas,Samba,Negru,"38,39,40,41,42,43,44",885,Design iconic cu accente retro.,3
+252,Adidas,Samba,Rosu,"38,39,40,41,42,43,44",861,Design iconic cu accente retro.,48
+253,Adidas,Samba,Rosu,"38,39,40,41,42,43,44",1140,Design iconic cu accente retro.,18
+254,Adidas,Samba,Mov,"38,39,40,41,42,43,44",1099,Design iconic cu accente retro.,13
+255,Adidas,Samba,Portocaliu,"38,39,40,41,42,43,44",1146,Design iconic cu accente retro.,4
+256,Adidas,Samba,Verde,"38,39,40,41,42,43,44",401,Design iconic cu accente retro.,3
+257,Adidas,Samba,Alb,"38,39,40,41,42,43,44",1085,Design iconic cu accente retro.,0
+258,Adidas,Samba,Negru,"38,39,40,41,42,43,44",791,Design iconic cu accente retro.,41
+259,Adidas,Samba,Portocaliu,"38,39,40,41,42,43,44",690,Design iconic cu accente retro.,27
+260,Adidas,Samba,Gri,"38,39,40,41,42,43,44",925,Design iconic cu accente retro.,21
+261,Adidas,Samba,Negru,"38,39,40,41,42,43,44",994,Design iconic cu accente retro.,35
+262,Adidas,Samba,Albastru,"38,39,40,41,42,43,44",1093,Design iconic cu accente retro.,13
+263,Adidas,Stan Smith,Galben,"38,39,40,41,42,43,44",1176,Design iconic cu accente retro.,46
+264,Adidas,Stan Smith,Rosu,"38,39,40,41,42,43,44",1061,Design iconic cu accente retro.,27
+265,Adidas,Stan Smith,Bej,"38,39,40,41,42,43,44",1151,Design iconic cu accente retro.,47
+266,Adidas,Stan Smith,Bej,"38,39,40,41,42,43,44",393,Design iconic cu accente retro.,16
+267,Adidas,Stan Smith,Negru,"38,39,40,41,42,43,44",664,Design iconic cu accente retro.,26
+268,Adidas,Stan Smith,Albastru,"38,39,40,41,42,43,44",640,Design iconic cu accente retro.,4
+269,Adidas,Stan Smith,Verde,"38,39,40,41,42,43,44",519,Design iconic cu accente retro.,46
+270,Adidas,Stan Smith,Rosu,"38,39,40,41,42,43,44",527,Design iconic cu accente retro.,34
+271,Adidas,Stan Smith,Portocaliu,"38,39,40,41,42,43,44",345,Design iconic cu accente retro.,12
+272,Adidas,Stan Smith,Mov,"38,39,40,41,42,43,44",897,Design iconic cu accente retro.,48
+273,Adidas,Stan Smith,Gri,"38,39,40,41,42,43,44",1016,Design iconic cu accente retro.,50
+274,Adidas,Stan Smith,Negru,"38,39,40,41,42,43,44",935,Design iconic cu accente retro.,0
+275,Adidas,Stan Smith,Mov,"38,39,40,41,42,43,44",552,Design iconic cu accente retro.,6
+276,Adidas,Stan Smith,Alb,"38,39,40,41,42,43,44",645,Design iconic cu accente retro.,29
+277,Adidas,Stan Smith,Bej,"38,39,40,41,42,43,44",1191,Design iconic cu accente retro.,14
+278,Adidas,Stan Smith,Albastru,"38,39,40,41,42,43,44",632,Design iconic cu accente retro.,29
+279,Adidas,Stan Smith,Portocaliu,"38,39,40,41,42,43,44",732,Design iconic cu accente retro.,23
+280,Adidas,Stan Smith,Bej,"38,39,40,41,42,43,44",521,Design iconic cu accente retro.,46
+281,Adidas,Superstar,Alb,"38,39,40,41,42,43,44",411,Design iconic cu accente retro.,11
+282,Adidas,Superstar,Alb,"38,39,40,41,42,43,44",921,Model clasic reinventat cu tehnologie noua.,16
+283,Adidas,Superstar,Alb,"38,39,40,41,42,43,44",1011,Model clasic reinventat cu tehnologie noua.,35
+284,Adidas,Superstar,Rosu,"38,39,40,41,42,43,44",571,Model clasic reinventat cu tehnologie noua.,38
+285,Adidas,Superstar,Gri,"38,39,40,41,42,43,44",1054,Model clasic reinventat cu tehnologie noua.,24
+286,Adidas,Superstar,Verde,"38,39,40,41,42,43,44",498,Model clasic reinventat cu tehnologie noua.,3
+287,Adidas,Superstar,Bej,"38,39,40,41,42,43,44",726,Model clasic reinventat cu tehnologie noua.,6
+288,Adidas,Superstar,Verde,"38,39,40,41,42,43,44",1191,Model clasic reinventat cu tehnologie noua.,39
+289,Adidas,Superstar,Galben,"38,39,40,41,42,43,44",1035,Model clasic reinventat cu tehnologie noua.,5
+290,Adidas,Superstar,Portocaliu,"38,39,40,41,42,43,44",787,Model clasic reinventat cu tehnologie noua.,36
+291,Adidas,Superstar,Verde,"38,39,40,41,42,43,44",1101,Model clasic reinventat cu tehnologie noua.,34
+292,Adidas,Superstar,Verde,"38,39,40,41,42,43,44",303,Model clasic reinventat cu tehnologie noua.,34
+293,Adidas,Superstar,Alb,"38,39,40,41,42,43,44",1120,Model clasic reinventat cu tehnologie noua.,30
+294,Adidas,Superstar,Gri,"38,39,40,41,42,43,44",845,Model clasic reinventat cu tehnologie noua.,16
+295,Adidas,Superstar,Mov,"38,39,40,41,42,43,44",329,Model clasic reinventat cu tehnologie noua.,9
+296,Adidas,Superstar,Mov,"38,39,40,41,42,43,44",782,Model clasic reinventat cu tehnologie noua.,1
+297,Adidas,Superstar,Verde,"38,39,40,41,42,43,44",512,Model clasic reinventat cu tehnologie noua.,39
+298,Adidas,Superstar,Albastru,"38,39,40,41,42,43,44",855,Model clasic reinventat cu tehnologie noua.,23
+299,Adidas,Superstar,Portocaliu,"38,39,40,41,42,43,44",822,Model clasic reinventat cu tehnologie noua.,45
+300,Adidas,Ultraboost,Portocaliu,"38,39,40,41,42,43,44",825,Model clasic reinventat cu tehnologie noua.,25
+301,Adidas,Ultraboost,Alb,"38,39,40,41,42,43,44",990,Model clasic reinventat cu tehnologie noua.,18
+302,Adidas,Ultraboost,Gri,"38,39,40,41,42,43,44",1112,Model clasic reinventat cu tehnologie noua.,47
+303,Adidas,Ultraboost,Verde,"38,39,40,41,42,43,44",321,Model clasic reinventat cu tehnologie noua.,40
+304,Adidas,Ultraboost,Portocaliu,"38,39,40,41,42,43,44",570,Model clasic reinventat cu tehnologie noua.,0
+305,Adidas,Ultraboost,Rosu,"38,39,40,41,42,43,44",398,Model clasic reinventat cu tehnologie noua.,22
+306,Adidas,Ultraboost,Portocaliu,"38,39,40,41,42,43,44",376,Model clasic reinventat cu tehnologie noua.,33
+307,Adidas,Ultraboost,Mov,"38,39,40,41,42,43,44",967,Model clasic reinventat cu tehnologie noua.,40
+308,Adidas,Ultraboost,Negru,"38,39,40,41,42,43,44",509,Model clasic reinventat cu tehnologie noua.,0
+309,Adidas,Ultraboost,Negru,"38,39,40,41,42,43,44",636,Ideal pentru sport si activitati zilnice.,35
+310,Adidas,Ultraboost,Gri,"38,39,40,41,42,43,44",650,Ideal pentru sport si activitati zilnice.,32
+311,Adidas,Ultraboost,Rosu,"38,39,40,41,42,43,44",933,Ideal pentru sport si activitati zilnice.,22
+312,Adidas,Ultraboost,Bej,"38,39,40,41,42,43,44",570,Ideal pentru sport si activitati zilnice.,20
+313,Adidas,Ultraboost,Rosu,"38,39,40,41,42,43,44",624,Ideal pentru sport si activitati zilnice.,6
+314,Adidas,Ultraboost,Rosu,"38,39,40,41,42,43,44",1175,Ideal pentru sport si activitati zilnice.,6
+315,Adidas,Ultraboost,Verde,"38,39,40,41,42,43,44",960,Ideal pentru sport si activitati zilnice.,11
+316,Adidas,Ultraboost,Galben,"38,39,40,41,42,43,44",554,Ideal pentru sport si activitati zilnice.,26
+317,Adidas,Ultraboost,Bej,"38,39,40,41,42,43,44",754,Ideal pentru sport si activitati zilnice.,38
+318,Adidas,Ultraboost,Bej,"38,39,40,41,42,43,44",1006,Ideal pentru sport si activitati zilnice.,6
+319,Adidas,Ultraboost,Negru,"38,39,40,41,42,43,44",742,Ideal pentru sport si activitati zilnice.,23
+320,Adidas,Ultraboost,Mov,"38,39,40,41,42,43,44",712,Ideal pentru sport si activitati zilnice.,28
+321,Adidas,Ultraboost,Portocaliu,"38,39,40,41,42,43,44",798,Ideal pentru sport si activitati zilnice.,33
+322,Adidas,Ultraboost,Alb,"38,39,40,41,42,43,44",1119,Ideal pentru sport si activitati zilnice.,4
+323,Adidas,Ultraboost,Portocaliu,"38,39,40,41,42,43,44",728,Ideal pentru sport si activitati zilnice.,46
+324,Adidas,Ultraboost,Portocaliu,"38,39,40,41,42,43,44",1175,Ideal pentru sport si activitati zilnice.,32
+325,Adidas,Ultraboost,Mov,"38,39,40,41,42,43,44",790,Ideal pentru sport si activitati zilnice.,30
+326,Adidas,Ultraboost,Verde,"38,39,40,41,42,43,44",483,Ideal pentru sport si activitati zilnice.,15
+327,Adidas,Ultraboost,Bej,"38,39,40,41,42,43,44",412,Ideal pentru sport si activitati zilnice.,42
+328,Nike,VaporMax,Verde,"38,39,40,41,42,43,44",923,Potrivit pentru alergare si antrenamente.,41
+329,Nike,VaporMax,Gri,"38,39,40,41,42,43,44",1415,Potrivit pentru alergare si antrenamente.,18
+330,Nike,VaporMax,Bej,"38,39,40,41,42,43,44",649,Potrivit pentru alergare si antrenamente.,20
+331,Nike,VaporMax,Gri,"38,39,40,41,42,43,44",460,Potrivit pentru alergare si antrenamente.,37
+332,Nike,VaporMax,Gri,"38,39,40,41,42,43,44",1436,Potrivit pentru alergare si antrenamente.,15
+333,Nike,VaporMax,Mov,"38,39,40,41,42,43,44",498,Potrivit pentru alergare si antrenamente.,26
+334,Nike,VaporMax,Verde,"38,39,40,41,42,43,44",899,Potrivit pentru alergare si antrenamente.,30
+335,Nike,VaporMax,Mov,"38,39,40,41,42,43,44",339,Potrivit pentru alergare si antrenamente.,46
+336,Nike,VaporMax,Gri,"38,39,40,41,42,43,44",342,Potrivit pentru alergare si antrenamente.,28
+337,Nike,VaporMax,Verde,"38,39,40,41,42,43,44",529,Potrivit pentru alergare si antrenamente.,47
+338,Nike,VaporMax,Mov,"38,39,40,41,42,43,44",1369,Potrivit pentru alergare si antrenamente.,3
+339,Nike,VaporMax,Bej,"38,39,40,41,42,43,44",1320,Potrivit pentru alergare si antrenamente.,13
+340,Nike,VaporMax,Mov,"38,39,40,41,42,43,44",332,Potrivit pentru alergare si antrenamente.,41
+341,Nike,VaporMax,Portocaliu,"38,39,40,41,42,43,44",567,Potrivit pentru alergare si antrenamente.,19
+342,Nike,VaporMax,Gri,"38,39,40,41,42,43,44",1275,Potrivit pentru alergare si antrenamente.,5
+343,Nike,VaporMax,Bej,"38,39,40,41,42,43,44",686,Potrivit pentru alergare si antrenamente.,48
+344,Nike,VaporMax,Portocaliu,"38,39,40,41,42,43,44",853,Potrivit pentru alergare si antrenamente.,37
+345,Adidas,Yeezy Boost 350,Negru,"38,39,40,41,42,43,44",777,Ideal pentru sport si activitati zilnice.,21
+346,Adidas,Yeezy Boost 350,Galben,"38,39,40,41,42,43,44",544,Ideal pentru sport si activitati zilnice.,39
+347,Adidas,Yeezy Boost 350,Verde,"38,39,40,41,42,43,44",698,Ideal pentru sport si activitati zilnice.,50
+348,Adidas,Yeezy Boost 350,Verde,"38,39,40,41,42,43,44",759,Ideal pentru sport si activitati zilnice.,18
+349,Adidas,Yeezy Boost 350,Galben,"38,39,40,41,42,43,44",1160,Ideal pentru sport si activitati zilnice.,36
+350,Adidas,Yeezy Boost 350,Rosu,"38,39,40,41,42,43,44",943,Ideal pentru sport si activitati zilnice.,31
+351,Adidas,Yeezy Boost 350,Rosu,"38,39,40,41,42,43,44",925,Ideal pentru sport si activitati zilnice.,49
+352,Adidas,Yeezy Boost 350,Galben,"38,39,40,41,42,43,44",757,Ideal pentru sport si activitati zilnice.,2
+353,Adidas,Yeezy Boost 350,Alb,"38,39,40,41,42,43,44",859,Ideal pentru sport si activitati zilnice.,32
+354,Adidas,Yeezy Boost 350,Alb,"38,39,40,41,42,43,44",1101,Ideal pentru sport si activitati zilnice.,35
+355,Adidas,Yeezy Boost 350,Galben,"38,39,40,41,42,43,44",521,Ideal pentru sport si activitati zilnice.,18
+356,Adidas,Yeezy Boost 350,Negru,"38,39,40,41,42,43,44",275,Ideal pentru sport si activitati zilnice.,46
+357,Adidas,Yeezy Boost 350,Verde,"38,39,40,41,42,43,44",1039,Ideal pentru sport si activitati zilnice.,44
+358,Adidas,Yeezy Boost 350,Bej,"38,39,40,41,42,43,44",1198,Ideal pentru sport si activitati zilnice.,34
+359,Adidas,Yeezy Boost 350,Albastru,"38,39,40,41,42,43,44",786,Ideal pentru sport si activitati zilnice.,0
+360,Adidas,Yeezy Boost 350,Albastru,"38,39,40,41,42,43,44",565,Ideal pentru sport si activitati zilnice.,22
+361,Adidas,Yeezy Boost 350,Alb,"38,39,40,41,42,43,44",596,Ideal pentru sport si activitati zilnice.,41
+362,Adidas,Yeezy Boost 350,Rosu,"38,39,40,41,42,43,44",1020,Ideal pentru sport si activitati zilnice.,36
+363,Adidas,Yeezy Boost 350,Negru,"38,39,40,41,42,43,44",461,Ideal pentru sport si activitati zilnice.,14
+364,Adidas,Yeezy Boost 350,Verde,"38,39,40,41,42,43,44",568,Ideal pentru sport si activitati zilnice.,42
+365,Adidas,Yeezy Boost 350,Portocaliu,"38,39,40,41,42,43,44",509,Ideal pentru sport si activitati zilnice.,24
+366,Adidas,Yeezy Boost 350,Rosu,"38,39,40,41,42,43,44",995,Ideal pentru sport si activitati zilnice.,37
+367,Adidas,Yeezy Boost 350,Portocaliu,"38,39,40,41,42,43,44",908,Ideal pentru sport si activitati zilnice.,12
+368,Adidas,ZX 750,Bej,"38,39,40,41,42,43,44",266,Performanta si stil intr-un singur produs.,17
+369,Adidas,ZX 750,Gri,"38,39,40,41,42,43,44",1143,Performanta si stil intr-un singur produs.,18
+370,Adidas,ZX 750,Bej,"38,39,40,41,42,43,44",993,Performanta si stil intr-un singur produs.,38
+371,Adidas,ZX 750,Albastru,"38,39,40,41,42,43,44",892,Performanta si stil intr-un singur produs.,1
+372,Adidas,ZX 750,Alb,"38,39,40,41,42,43,44",443,Performanta si stil intr-un singur produs.,40
+373,Adidas,ZX 750,Bej,"38,39,40,41,42,43,44",999,Performanta si stil intr-un singur produs.,14
+374,Adidas,ZX 750,Mov,"38,39,40,41,42,43,44",925,Performanta si stil intr-un singur produs.,6
+375,Adidas,ZX 750,Negru,"38,39,40,41,42,43,44",623,Performanta si stil intr-un singur produs.,7
+376,Adidas,ZX 750,Portocaliu,"38,39,40,41,42,43,44",286,Performanta si stil intr-un singur produs.,6
+377,Adidas,ZX 750,Albastru,"38,39,40,41,42,43,44",743,Performanta si stil intr-un singur produs.,5
+378,Adidas,ZX 750,Galben,"38,39,40,41,42,43,44",391,Performanta si stil intr-un singur produs.,21
+379,Adidas,ZX 750,Mov,"38,39,40,41,42,43,44",848,Performanta si stil intr-un singur produs.,28
+380,Adidas,ZX 750,Albastru,"38,39,40,41,42,43,44",573,Performanta si stil intr-un singur produs.,44
+381,Adidas,ZX 750,Alb,"38,39,40,41,42,43,44",336,Performanta si stil intr-un singur produs.,22
+382,Adidas,ZX 750,Alb,"38,39,40,41,42,43,44",254,Performanta si stil intr-un singur produs.,15
+383,Adidas,ZX 750,Verde,"38,39,40,41,42,43,44",458,Performanta si stil intr-un singur produs.,4
+384,Nike,ZoomX,Bej,"38,39,40,41,42,43,44",930,Performanta si stil intr-un singur produs.,33
+385,Nike,ZoomX,Rosu,"38,39,40,41,42,43,44",1479,Performanta si stil intr-un singur produs.,31
+386,Nike,ZoomX,Portocaliu,"38,39,40,41,42,43,44",1494,Performanta si stil intr-un singur produs.,49
+387,Nike,ZoomX,Albastru,"38,39,40,41,42,43,44",899,Performanta si stil intr-un singur produs.,32
+388,Nike,ZoomX,Alb,"38,39,40,41,42,43,44",757,Performanta si stil intr-un singur produs.,22
+389,Nike,ZoomX,Bej,"38,39,40,41,42,43,44",1230,Performanta si stil intr-un singur produs.,0
+390,Nike,ZoomX,Negru,"38,39,40,41,42,43,44",847,Performanta si stil intr-un singur produs.,50
+391,Nike,ZoomX,Gri,"38,39,40,41,42,43,44",429,Performanta si stil intr-un singur produs.,22
+392,Nike,ZoomX,Albastru,"38,39,40,41,42,43,44",950,Performanta si stil intr-un singur produs.,4
+393,Nike,ZoomX,Gri,"38,39,40,41,42,43,44",908,Performanta si stil intr-un singur produs.,4
+394,Nike,ZoomX,Negru,"38,39,40,41,42,43,44",1334,Performanta si stil intr-un singur produs.,26
+395,Nike,ZoomX,Alb,"38,39,40,41,42,43,44",1055,Performanta si stil intr-un singur produs.,0
+396,Nike,ZoomX,Albastru,"38,39,40,41,42,43,44",1474,Performanta si stil intr-un singur produs.,31
+397,Nike,ZoomX,Portocaliu,"38,39,40,41,42,43,44",619,Performanta si stil intr-un singur produs.,29
+398,Nike,ZoomX,Albastru,"38,39,40,41,42,43,44",460,Performanta si stil intr-un singur produs.,18
+399,Nike,ZoomX,Portocaliu,"38,39,40,41,42,43,44",1226,Performanta si stil intr-un singur produs.,32
+400,Nike,ZoomX,Mov,"38,39,40,41,42,43,44",477,Performanta si stil intr-un singur produs.,8
+401,Nike,ZoomX,Mov,"38,39,40,41,42,43,44",530,Performanta si stil intr-un singur produs.,1
+402,Nike,ZoomX,Albastru,"38,39,40,41,42,43,44",723,Performanta si stil intr-un singur produs.,19
+403,Nike,ZoomX,Galben,"38,39,40,41,42,43,44",1249,Performanta si stil intr-un singur produs.,25
+404,Nike,ZoomX,Albastru,"38,39,40,41,42,43,44",973,Performanta si stil intr-un singur produs.,50
+405,Nike,ZoomX,Mov,"38,39,40,41,42,43,44",864,Performanta si stil intr-un singur produs.,25
+406,Nike,ZoomX,Bej,"38,39,40,41,42,43,44",485,Performanta si stil intr-un singur produs.,50
+407,Nike,ZoomX,Negru,"38,39,40,41,42,43,44",1263,Performanta si stil intr-un singur produs.,46
+408,Nike,ZoomX,Alb,"38,39,40,41,42,43,44",735,Performanta si stil intr-un singur produs.,2
+409,Nike,ZoomX,Bej,"38,39,40,41,42,43,44",988,Performanta si stil intr-un singur produs.,30
+410,Nike,ZoomX,Rosu,"38,39,40,41,42,43,44",464,Performanta si stil intr-un singur produs.,2
